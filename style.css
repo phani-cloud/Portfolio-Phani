@@ -134,6 +134,7 @@ section {
 
     body {
         overflow: auto;
+        text-align: center;
     }
      
     /* Navbar */
@@ -171,7 +172,6 @@ section {
     /* Sections */
     section {
         padding: 20px;
-        width: 85%;
     }
 
     /* Common Box */
