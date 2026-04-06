@@ -129,6 +129,10 @@ section {
     text-align: center;
 }
 
+.link {
+    color: blue;
+}
+
 /* MOBILE DEVICES */
 @media (max-width: 768px) {
 
